@@ -1,0 +1,28 @@
+=== PERSONAL FINANCE TRACKER FEATURE LIST ===
+
+🧍 USER MODULE
+1. Register
+2. Login (JWT)
+3. Logout
+
+💸 TRANSACTION MODULE
+4. Add income/expense
+5. View transactions
+6. Edit/Delete
+7. Filter by date/category
+
+📂 CATEGORY MODULE
+8. Add/View/Edit/Delete categories
+
+📊 BUDGET MODULE
+10. Set monthly budget
+11. Show alerts if exceeded
+12. Track remaining budget
+
+
+=== FUTURE FEATURES ===
+- Forgot password
+- Currency conversion
+- Mobile responsiveness
+- Dark mode
+- Monthly summary email
